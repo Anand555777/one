@@ -13,7 +13,7 @@
         <h1 style="color: black; font-size: 40px;" align="center">jenkins is ci/cd tool</h1>
 	<h1 style="color: pink; font-size: 40px;" align="center">jenkines tomcat</h1>
 	<h1 style="color: black; font-size: 40px;" align="center">jenkines hub</h1>
-	<h1 style="color: black; font-size: 40px;" align="center">jenkines hub</h1>
+	<h1 style="color: black; font-size: 40px;" align="center">jenkines </h1>
 	<h1 style="color: gold; font-size: 50px;" align="center">welcome to jenkines</h1>
 
 
